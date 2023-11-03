@@ -7,4 +7,10 @@
     <color name="teal_700">#FF018786</color>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+    <color name="grey">#46000000</color>
+    <color name="blue_200">#BD41B0F4</color>
+    <color name="blue_500">#0362FB</color>
+
+    <color name="default_text_color">#000000</color> <!-- 默认状态下的文本颜色 -->
+    <color name="pressed_text_color">#FF0000</color> <!-- 被点击状态下的文本颜色 -->
 </resources>

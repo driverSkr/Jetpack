@@ -10,6 +10,7 @@ import androidx.lifecycle.lifecycleScope
 import androidx.paging.LoadState
 import androidx.recyclerview.widget.LinearLayoutManager
 import androidx.recyclerview.widget.RecyclerView
+import com.example.paging.adapter.FooterAdapter
 import com.example.paging.adapter.RepoAdapter
 import com.example.paging.viewModel.PagingBasicViewModel
 import kotlinx.coroutines.flow.collect
@@ -29,7 +30,7 @@ class PagingBasicActivity : AppCompatActivity() {
         val progressBar = findViewById<ProgressBar>(R.id.progress_bar)
 
         recyclerView.layoutManager = LinearLayoutManager(this)
-        recyclerView.adapter = repoAdapter
+        recyclerView.adapter = repoAdapter.withLoadStateFooter(FooterAdapter { repoAdapter.retry() })
         lifecycleScope.launch {
             /**
              * collect()函数有点类似于Rxjava中的subscribe()函数，总之就是订阅了之后，消息就会源源不断往这里传

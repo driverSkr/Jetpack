@@ -15,3 +15,6 @@ dependencyResolutionManagement {
 rootProject.name = "Jetpack"
 include ':app'
 include ':Paging'
+include ':ViewModel'
+include ':Lifecycles'
+include ':LiveData'

@@ -3,14 +3,23 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/androidProject/boGeStudyDemo/Jetpack/LiveData/src/main/res/layout/activity_live_data.xml" value="0.22447916666666667" />
+        <entry key="..\:/androidProject/boGeStudyDemo/Jetpack/LiveData/src/main/res/layout/activity_live_data_map.xml" value="0.22447916666666667" />
+        <entry key="..\:/androidProject/boGeStudyDemo/Jetpack/LiveData/src/main/res/layout/activity_live_data_switch_map.xml" value="0.16942148760330578" />
+        <entry key="..\:/androidProject/boGeStudyDemo/Jetpack/LiveData/src/main/res/layout/activity_main.xml" value="0.225" />
         <entry key="..\:/androidProject/boGeStudyDemo/Jetpack/Paging/src/main/res/drawable/ic_star.xml" value="0.1" />
+        <entry key="..\:/androidProject/boGeStudyDemo/Jetpack/Paging/src/main/res/drawable/retry_button.xml" value="0.1805" />
         <entry key="..\:/androidProject/boGeStudyDemo/Jetpack/Paging/src/main/res/layout/activity_main.xml" value="0.225" />
         <entry key="..\:/androidProject/boGeStudyDemo/Jetpack/Paging/src/main/res/layout/activity_paging_basic.xml" value="0.22447916666666667" />
+        <entry key="..\:/androidProject/boGeStudyDemo/Jetpack/Paging/src/main/res/layout/footer_item.xml" value="0.1" />
         <entry key="..\:/androidProject/boGeStudyDemo/Jetpack/Paging/src/main/res/layout/repo_item.xml" value="0.17647058823529413" />
+        <entry key="..\:/androidProject/boGeStudyDemo/Jetpack/ViewModel/src/main/res/layout/activity_foundation_view_model.xml" value="0.2078125" />
+        <entry key="..\:/androidProject/boGeStudyDemo/Jetpack/ViewModel/src/main/res/layout/activity_main.xml" value="0.225" />
+        <entry key="..\:/androidProject/boGeStudyDemo/Jetpack/ViewModel/src/main/res/layout/activity_parameters_view_model.xml" value="0.22135416666666666" />
       </map>
     </option>
   </component>
-  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="1.8" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/build/classes" />
   </component>
   <component name="ProjectType">
