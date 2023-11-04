@@ -11,10 +11,13 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/Flow" />
             <option value="$PROJECT_DIR$/Lifecycles" />
             <option value="$PROJECT_DIR$/LiveData" />
             <option value="$PROJECT_DIR$/Paging" />
+            <option value="$PROJECT_DIR$/Room" />
             <option value="$PROJECT_DIR$/ViewModel" />
+            <option value="$PROJECT_DIR$/WorkManager" />
             <option value="$PROJECT_DIR$/app" />
           </set>
         </option>
