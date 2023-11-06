@@ -3,6 +3,8 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/androidProject/boGeStudyDemo/Jetpack/Flow/src/main/res/layout/activity_flow_basic.xml" value="0.22447916666666667" />
+        <entry key="..\:/androidProject/boGeStudyDemo/Jetpack/Flow/src/main/res/layout/activity_state_flow_basic.xml" value="0.2078125" />
         <entry key="..\:/androidProject/boGeStudyDemo/Jetpack/LiveData/src/main/res/layout/activity_live_data.xml" value="0.22447916666666667" />
         <entry key="..\:/androidProject/boGeStudyDemo/Jetpack/LiveData/src/main/res/layout/activity_live_data_map.xml" value="0.22447916666666667" />
         <entry key="..\:/androidProject/boGeStudyDemo/Jetpack/LiveData/src/main/res/layout/activity_live_data_switch_map.xml" value="0.16942148760330578" />
